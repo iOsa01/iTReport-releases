@@ -1,7 +1,7 @@
 {
-  "versionCode": 10000,
-  "versionName": "1.0.0",
+  "versionCode": 10001,
+  "versionName": "1.0.1",
   "url": "https://github.com/iOsa01/Report-releases/releases/latest/download/iTReport-latest.apk",
-  "notes": "أول إصدار عام",
-  "sha256": "68ae4e41596ebc2e9c190bb379b24bc8a4170849ea442093fb03e0d49ca38661"
+  "notes": "اختبار آلية التحديث عن بُعد عبر GitHub",
+  "sha256": "966def5da4c9800e08054f1d58198a0fd8d7853b81322e0234541e6396f63045"
 }
